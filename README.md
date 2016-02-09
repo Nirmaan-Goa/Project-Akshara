@@ -14,4 +14,5 @@ sqlite3 stu.db < schema.sql
 python student.py
 ```
 
+Then head over to your browser and type http://localhost:5000
 
