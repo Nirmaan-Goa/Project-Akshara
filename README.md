@@ -10,7 +10,7 @@ git clone https://github.com/Nirmaan-Goa/Project-Akshara.git
 Then
 ```
 cd Project-Akshara
-sqlite3 stu.db < schema.sql
+sqlite3 stu.db < schema.sql  //Don't execute this line if you haven't altered the schema
 python student.py
 ```
 
