@@ -1,3 +1,6 @@
+#Basic Google OAuth 2.0 login API
+#Read about Google APIs and access keys before you go ahead with the project
+
 import os
 
 from flask import Flask, jsonify
