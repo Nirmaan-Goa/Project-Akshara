@@ -1,6 +1,12 @@
 # Project-Akshara
 An open source student management platform maintained by Nirmaan Goa.
 
+##Requirements
+Make sure you have the following packages installed.
+*Python 2.7 or higher
+*Flask
+*sqlite3
+
 ##To run the program
 Open your terminal and type:
 ```
